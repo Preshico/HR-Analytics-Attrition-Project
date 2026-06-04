@@ -1,4 +1,4 @@
-# HR-Analytics-Attrition-Project
+# HR Employee Attrition Analytics Project
 # Project Description
 
 This project explores employee attrition patterns using IBM HR Analytics Employee Attrition dataset. The analysis was conducted using Python for data exploration and statistical analysis, and Power BI for interactive dashboard development.
